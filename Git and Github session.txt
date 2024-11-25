@@ -1,0 +1,5 @@
+Git-hub and Git session:
+Version control system:tracking the changes done by diff. people while a software is being developed.
+Git: can be imagined as tree leaves represent changes in code.thre is a folder and files in it and git sits on top and tracks everything abt files.
+Git-repository: linking of data str. 
+Command Line Terminal: 

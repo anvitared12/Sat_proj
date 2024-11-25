@@ -1,0 +1,11 @@
+finding nearest plastic or aluminium recycling machines.
+=================================================================================
+what does it do?
+it is a website which will give u a provision to book a particular shop to recycle your waste like aluminium and plastic. (primary focus)
+if i am a user i will book a certain shop which recycles stuff. and know different rates i mean to say which will give me highest rate. acc to that i will book and a delivery person will pick it and give to shop.
+when it goes to shop he or she will check weihgt and acc to he or she will give the money and it will be transferred to you.
+=====================================================================================
+features we will be focussing on:
+# giving user best price.
+# what you want to recycle.(option)
+# a kind of lazy website . bcz no one puts effort for saving environment. it should be like swiggy.
